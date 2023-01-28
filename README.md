@@ -69,9 +69,19 @@ After that you should see: "Bot Permissions"
 ![image](https://user-images.githubusercontent.com/101154856/215277314-732f3504-b7f6-409b-a2a8-eec7a9f1ac7e.png)
 
 Click on the permissions you want the bot to have.
-After that you should see a generated URL on the bottom of the webpage, that is your Bot Invite
+After that you should see a generated URL on the bottom of the webpage, that is your Bot Invite.
 Copy and paste it into a new Tab
 You'll see something like this once done:
 
 ![image](https://user-images.githubusercontent.com/101154856/215277358-b5efdc64-ba6e-4c10-8625-ba55d7e12999.png)
+
+# How to make the bot online
+You will need the token for this
+Go to index.js (Main Source Code)
+
+And then go to the variable:
+```js
+const Token = "Your Token Here"
+```
+and Change Your Token Here to the token you generated.
 
