@@ -75,6 +75,15 @@ You'll see something like this once done:
 
 ![image](https://user-images.githubusercontent.com/101154856/215277358-b5efdc64-ba6e-4c10-8625-ba55d7e12999.png)
 
+# Intents
+Intents is a bots permissions on what it can do
+like its limitations and stuff
+You'll want to enable all 3 of these for the bot to work:
+
+![image](https://user-images.githubusercontent.com/101154856/215277517-c8631c55-4ff3-4a28-8e38-8dc8518120fe.png)
+
+This is in your Application Under Bot.
+
 # How to make the bot online
 You will need the token for this
 Go to index.js (Main Source Code)
@@ -83,5 +92,37 @@ And then go to the variable:
 ```js
 const Token = "Your Token Here"
 ```
-and Change Your Token Here to the token you generated.
+and Change "Your Token Here" to the token you generated.
+
+# How to make the Bot Online
+Once you've done everything in the tutorial
+You'll be able to get the bot online.
+
+If you did not enable the intents or token the bot will not go online
+but you will expect a Error to popup.
+
+Ok you're still wondering how to make it online
+You'll need to type:
+```
+node .
+```
+To make the bot online,
+make sure you have node.js installed for this work
+if you don't install it now.
+https://nodejs.org/en/
+
+You should see this once the bot goes online:
+
+![image](https://user-images.githubusercontent.com/101154856/215277904-2e211ae2-1860-47e0-bdaf-4a48cdf0d01b.png)
+
+# How do I add leaks to the bot?
+To add leaks you'll need to make a new Directory/Folder called:
+```
+leaks
+```
+You can put leaks here.
+
+![image](https://user-images.githubusercontent.com/101154856/215277935-0fd3e483-9dca-41b8-aff9-e8fd841ba707.png)
+
+Just make sure its in the same parent as index.js.
 
