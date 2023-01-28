@@ -45,3 +45,33 @@ you'll be able to get access to your token (After you clicked "Yes, Do it"
 ![image](https://user-images.githubusercontent.com/101154856/215277189-c3f00e0c-a924-4b46-93a7-2deda7dbf292.png)
 
 You won't be able to use the token I just sent as I have re-generated the Bot Token.
+
+# How to add the bot to my server
+If you don't know how to add the bot to your server
+Heres how you do it:
+
+First click on OAuth2 in your application:
+
+![image](https://user-images.githubusercontent.com/101154856/215277261-30673954-4711-4b8f-87e4-ce28882cd524.png)
+
+After that you should see this:
+
+![image](https://user-images.githubusercontent.com/101154856/215277267-31a9a561-0f82-4fbc-96d0-091a22061a53.png)
+
+You want to click on URL Generator to get the bot Invite.
+After you've done that Click on "Bot"
+On the scopes page.
+
+![image](https://user-images.githubusercontent.com/101154856/215277287-38d26020-7e37-4d06-a7f1-6e04840f2e94.png)
+
+After that you should see: "Bot Permissions"
+
+![image](https://user-images.githubusercontent.com/101154856/215277314-732f3504-b7f6-409b-a2a8-eec7a9f1ac7e.png)
+
+Click on the permissions you want the bot to have.
+After that you should see a generated URL on the bottom of the webpage, that is your Bot Invite
+Copy and paste it into a new Tab
+You'll see something like this once done:
+
+![image](https://user-images.githubusercontent.com/101154856/215277358-b5efdc64-ba6e-4c10-8625-ba55d7e12999.png)
+
