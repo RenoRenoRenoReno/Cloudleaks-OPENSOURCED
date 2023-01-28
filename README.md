@@ -24,3 +24,24 @@ After you've done that
 you should see this:
 
 ![image](https://user-images.githubusercontent.com/101154856/215276994-709211da-48dc-4f4f-bad7-c1e367097ebc.png)
+
+Click on add bot if you havent done that already:
+
+![image](https://user-images.githubusercontent.com/101154856/215277051-c3425241-59ec-43c3-a67b-4e394b75b01a.png)
+
+After you've done that you should see something like this:
+
+![image](https://user-images.githubusercontent.com/101154856/215277077-3c2766da-b23b-4480-a591-da5dcfd4dce9.png)
+
+Now to get the Bot Token
+Click on Reset Token on the Bot Section:
+
+![image](https://user-images.githubusercontent.com/101154856/215277104-a2e89bc9-6bb4-4710-a443-fd16857bb8aa.png)
+
+
+After that,
+you'll be able to get access to your token (After you clicked "Yes, Do it"
+
+![image](https://user-images.githubusercontent.com/101154856/215277189-c3f00e0c-a924-4b46-93a7-2deda7dbf292.png)
+
+You won't be able to use the token I just sent as I have re-generated the Bot Token.
