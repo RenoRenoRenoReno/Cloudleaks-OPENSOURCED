@@ -6,9 +6,6 @@ const app = express()
 const port = 3000
 const requests = require('request')
 const noblox = require('noblox.js');
-const { info, table } = require('console');
-const { verify } = require('crypto');
-const { Z_ASCII } = require('zlib');
 
 app.get('/', (req, res) => res.send('Cloudleaks best!'));
 
