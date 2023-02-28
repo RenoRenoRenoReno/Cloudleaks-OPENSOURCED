@@ -3,6 +3,8 @@ Cloudleaks is a Roblox leaking file bot
 Founded And Programmed by Reno#0943
 I have open sourced the bot by decision.
 
+Video Tutorial: https://www.youtube.com/watch?v=491uYncgD6w
+
 # Tutorial/HowToUse
 First of all we need to create a application for the bot
 First go to the Discord Developer Portal: [Portal](https://discord.com/developers/applications)
